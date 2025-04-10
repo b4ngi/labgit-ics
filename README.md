@@ -1,2 +1,2 @@
 # labgit-ics
-By the gang of 7 😉
+By the gang of 6 😉
